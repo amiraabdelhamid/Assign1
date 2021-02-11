@@ -7,7 +7,7 @@ int main()
 
 
 	int x;
-	cout << "Enter positive value: " << endl;
+	cout << "Enter +ve value: " << endl;
 	cin >> x;
 	cout << "The factorial of " << x << " is: " << fact(x) << endl;
 
